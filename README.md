@@ -3,9 +3,6 @@
 ## 📱 Apps On Playstore
 - [Quiz Universe](https://play.google.com/store/apps/details?id=com.solo4.millionerquiz)  🚀
 
-- ## 🔗 Connect with Me!
-
-[Linkedin](https://www.linkedin.com/in/solo4/)
 <!--
 ## 🧰 Languages and Tools
 
@@ -25,8 +22,8 @@
 -->
 ## 📫 Contact me
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/svetlana-melekhova-aa37061b7/) 👨🏻‍💻
-- Send me an [email](svetlana.melekhova.sm@gmail.com) 📧
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/solo4/) 👨🏻‍💻
+- Send me an [email](semen.kaskasian@gmail.com) 📧
 
 <!--
 **azartx/azartx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
